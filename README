@@ -1,4 +1,4 @@
-This repository contains source code to accompany 3D Slicer tutorial on developing extensions, see slides here: http://goo.gl/IP4cdg.
+This repository contains source code to accompany 3D Slicer (http://slicer.org) tutorial on developing extensions, see slides here: http://goo.gl/IP4cdg.
 
 Each directory corresponds to the code at the time of completion of the corresponding part of the tutorial. The only file that is being modified is LineIntensityProfile/LineIntensityProfile.py. You can copy this file over to your development folder to "catch up" with the tutorial.
 
